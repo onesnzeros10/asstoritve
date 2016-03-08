@@ -1,0 +1,14 @@
+{
+    "name": "ervin/asstoritve",
+    "authors": [
+        {
+            "name": "Ervin Selimovic",
+            "email": "selimovicervin@yahoo.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "~2.6",
+        "twig/twig": "~1.18",
+        "slim/views": "^0.1.3"
+    }
+}
